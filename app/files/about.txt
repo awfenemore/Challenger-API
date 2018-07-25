@@ -1,1 +1,25 @@
-This is a test file from the server
+*Overview
+^Challenger is designed for gamers to have fun competing in games for some interesting prizes. Users can submit their own challenges, or submit entries for current challenges to try and win the prize.
+We run 2 challenges every 2 weeks, and users can submit one (repeated) entry per challenge if they have signed up for the challenge and paid the entry fee.
+
+If the challenge is subjective, for example "Build the best looking ____", then the entrants can be voted on, and the highest vote getter will win the prize/s if the entry is verified.
+If the challenge is objective, for example "Complete ____ in the fastest time", then you must submit a metric value with your entry, for example Time. This will rank the entrants, and the lowest/highest metric at the end of the challenge will win the prize/s when verified.
+
+*Entrance Fee
+
+^The entrance fees are designed to be as small as possible while still giving a good prize, paying server costs and site staff. Occasionally extra prizes will be given along with the Cash prize, but this is not guaranteed.
+All monetary values are in USD unless stated otherwise.
+
+*Verification
+
+^Verification will be done on all potential prize winners, that is, the entries in prize positions at the end of the challenge. This will be carried out by Challenger staff on a case by case basis, and it will be our sole judgement as to whether or not your entry is deemed eligible to win.
+In most cases we will endeavour to notify an entrant during the challenge if their submission will not be eligible, but this is also not guaranteed.
+
+*Winning
+
+^Winners will be notified via email to arrange payments and shipping of prizes. Note that winning a vote or having an initial fastest time does not guarantee a prize, your entry must also be verified to win the prize.
+
+*Entries
+
+^Entries are restricted to ONE per account, but this can be updated at any time. Changing your entry will not incur any penalties or fees, and any voting on your entry will be reset to 0.
+

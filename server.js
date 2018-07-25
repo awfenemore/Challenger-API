@@ -1,6 +1,8 @@
 const db = require('./config/db'),
     express = require('./config/express');
 
+
+
 const app = express();
 
 db.connect(function(err) {
@@ -13,3 +15,9 @@ db.connect(function(err) {
         });
     }
 });
+
+
+
+
+
+
